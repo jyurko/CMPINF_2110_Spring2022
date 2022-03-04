@@ -1,0 +1,6 @@
+id,symbol,"IFNULL(admit_year_again, 'Not sure')"
+1,PA,1787
+2,TX,1845
+3,NM,"Not sure"
+4,NM,"Not sure"
+5,MA,1788
